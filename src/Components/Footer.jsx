@@ -3,7 +3,7 @@ import { FaFacebookF, FaLinkedinIn, FaInstagram, FaPaperPlane } from "react-icon
 
 const Footer = () => {
   return (
-    <footer className="bg-primary text-white">
+    <footer className="bg-blue-500 text-white">
       <div className="max-w-7xl mx-auto px-6 py-12">
         
         {/* Top Section */}
