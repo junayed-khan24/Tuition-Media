@@ -93,7 +93,7 @@ const Blog = () => {
                 {blog.desc}
               </p>
 
-              <button className="btn btn-sm btn-neutral rounded-full mt-2 hover:animate-ping">
+              <button className="btn btn-sm bg-black text-white py-2 px-4 rounded-full mt-2 hover:animate-ping">
                 Read More
               </button>
             </div>
