@@ -15,7 +15,7 @@ const slides = [
     image: Slide1,
     title: "Learn English Confidently",
     subtitle:
-      "Join our English Club to practice speaking, listening, and communication in a friendly environment.",
+      "Join our English Club t.",
   },
   {
     image: Slide2,
